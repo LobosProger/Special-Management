@@ -17,5 +17,5 @@ Optimized version in benchmark of 1000 entities takes 4.73 milliseconds on proce
 * We negotiated a price of $45, and I successfully sold my enhanced implementation to him:
 
 <p align="center">
-![image](https://github.com/LobosProger/Special-Management/assets/78168123/41767d2b-5fad-45bb-963a-15354d4a6a32)
+  <img src="https://github.com/LobosProger/Special-Management/assets/78168123/41767d2b-5fad-45bb-963a-15354d4a6a32">
 </p>
