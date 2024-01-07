@@ -16,4 +16,6 @@ Optimized version in benchmark of 1000 entities takes 4.73 milliseconds on proce
 * After expressing my intent to sell the optimized implementation on the developer forum, an enthusiast working on his own network library contacted me. 
 * We negotiated a price of $45, and I successfully sold my enhanced implementation to him:
 
+<p align="center">
 ![image](https://github.com/LobosProger/Special-Management/assets/78168123/41767d2b-5fad-45bb-963a-15354d4a6a32)
+</p>
