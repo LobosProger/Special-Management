@@ -9,7 +9,7 @@ Built-in component in benchmark of 1000 entities takes 4.73 milliseconds on proc
 
 ![photo1704648751](https://github.com/LobosProger/Special-Management/assets/78168123/174ab5be-e797-4c94-8d7b-d949f0e9dcc6)
 
-Optimized version in benchmark of 1000 entities takes 4.73 milliseconds on processing (optimized on 43 %):
+Optimized version in benchmark of 1000 entities takes 2.7 milliseconds on processing (optimized on 43 %):
 
 ![photo1704648751 (1)](https://github.com/LobosProger/Special-Management/assets/78168123/e16828f0-5827-4cf6-a1d9-c3d67e7773ca)
 
